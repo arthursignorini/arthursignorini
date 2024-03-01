@@ -4,14 +4,14 @@
 
 ## 👋 Olá, mundo!
 
-Bem-vindo ao meu espaço digital! Sou [Seu Nome], um apaixonado por Ciência da Computação e estudante na PUC Minas. Atualmente, estou imerso no universo da programação, explorando desde o front-end até linguagens de baixo nível, como C.
+Bem-vindo ao meu espaço digital! Sou Arthur Signorini Miranda, um apaixonado por Ciência da Computação e estudante na PUC Minas. Atualmente, estou imerso no universo da programação, explorando desde o front-end até linguagens de baixo nível, como C.
 
 ---
 
 ## 💼 Experiência e Projetos
 
 **Desenvolvedor Front-End | Empresa XPTO**  
-*Período: [Data de Início] - [Data de Término]*
+*Período: 02/2024 - 12/2028*
 
 Nesta posição, tive a oportunidade de aprimorar minhas habilidades em HTML, CSS e JavaScript, trabalhando no desenvolvimento de interfaces atraentes e responsivas. Colaborei em projetos cruciais, como [Projeto X], onde liderei a implementação de recursos interativos.
 

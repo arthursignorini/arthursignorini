@@ -11,7 +11,7 @@ Bem-vindo ao meu espaço digital! Sou Arthur Signorini Miranda, um apaixonado po
 ## 💼 Experiência e Projetos
 
 **Desenvolvedor Front-End | Empresa XPTO**  
-*Período: 02/2024 - 12/2028*
+*Período: [data de inicio] - [data de termino]*
 
 Nesta posição, tive a oportunidade de aprimorar minhas habilidades em HTML, CSS e JavaScript, trabalhando no desenvolvimento de interfaces atraentes e responsivas. Colaborei em projetos cruciais, como [Projeto X], onde liderei a implementação de recursos interativos.
 

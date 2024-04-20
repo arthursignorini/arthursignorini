@@ -32,7 +32,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Aramuni</code>, tenho 33 anos, moro em BH e sou programador desde os 15 anos de idade. Atualmente sou <code>professor</code> nos cursos de Ciência da Computação, Sistemas de Informação e Análise e Desenvolvimento de Sistemas do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> e também nos cursos de Engenharia de Software e Ciência da Computação da <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :man_teacher:<br />
+<i><b>Olá</b> :wave:, sou o <code>Arthur</code>, tenho 18 anos, moro em BH e começei o curso de Ciência da Computação na PUC Minas em janeiro de 2024. Aqui, você encontrará o trabalho e os projetos de um aluno recém-chegado, ansioso para mergulhar no vasto mundo da computação. Com uma mente curiosa e determinação inabalável, estou pronto para explorar os fundamentos da programação, os desafios da lógica computacional e as maravilhas da resolução de problemas através da tecnologia. 
 </div>
 
 -----

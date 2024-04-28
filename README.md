@@ -32,7 +32,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Arthur</code>, tenho 18 anos, moro em BH e começei o curso de Ciência da Computação na PUC Minas em janeiro de 2024. Aqui, você encontrará o trabalho e os projetos de um aluno recém-chegado, ansioso para mergulhar no vasto mundo da computação. Com uma mente curiosa e determinação inabalável, estou pronto para explorar os fundamentos da programação, os desafios da lógica computacional e as maravilhas da resolução de problemas através da tecnologia. 
+<i><b>Olá</b> :wave:, My name is <code>Arthur</code>, I am 18 yeras old and as a graduating Computer Science student at PUC, my strengths lie in organization, leadership, patience, commitment, and teamwork. I'm deeply passionate about software development, programming, and data engineering, constantly pursuing knowledge in these areas through self-directed learning. I'm committed to honing my technical skills by mastering new programming languages and staying updated on industry trends. Beyond technical expertise, I recognize the importance of soft skills like communication and adaptability. I actively work on developing these skills to thrive in professional environments. My academic journey is not just about earning a degree but about personal and professional growth. I'm dedicated to seizing every opportunity to expand my horizons and become the best version of myself.
 </div>
 
 -----

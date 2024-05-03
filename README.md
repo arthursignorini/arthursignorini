@@ -37,9 +37,8 @@
 
 -----
 
-# Project Data
+# GitHub Stats<img height="30" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>
 <div>
   <a href="https://github.com/arthursignorini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthursignorini&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-

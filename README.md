@@ -32,7 +32,7 @@
 
 </div>
 <div align="justify">
-<i><b>Hey</b> :wave:, My name is <code>Arthur</code>, I am 18 years old and as a graduating Computer Science student at PUC, my strengths lie in organization, leadership, patience, commitment, and teamwork. I'm deeply passionate about software development, programming, and data engineering, constantly pursuing knowledge in these areas through self-directed learning. I'm committed to honing my technical skills by mastering new programming languages and staying updated on industry trends. Beyond technical expertise, I recognize the importance of soft skills like communication and adaptability. I actively work on developing these skills to thrive in professional environments. My academic journey is not just about earning a degree but about personal and professional growth. I'm dedicated to seizing every opportunity to expand my horizons and become the best version of myself.
+<i><b>Hey</b> :wave:, My name is <code>Arthur</code>, I am 18 years old and as an undergraduate student in Computer Science at PUC, I'm deeply passionate about software development, programming and data engineering. I'm committed to improving my technical skills, mastering new programming languages, and staying up to date on industry trends.
 </div>
 
 -----

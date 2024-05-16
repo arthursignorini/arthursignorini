@@ -31,18 +31,21 @@
 </table>
 
 </div>
+
 <div align="justify">
 <i><b>Hey</b> :wave:, My name is <code>Arthur</code>, I am 18 years old and as an undergraduate student in Computer Science at PUC, I'm deeply passionate about software development, programming and data engineering. I'm committed to improving my technical skills, mastering new programming languages, and staying up to date on industry trends.
 </div>
 
 -----
 
-# GitHub Stats<img height="30" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>
+# GitHub Stats <img height="30" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>
+
 <div style="display: flex; flex-direction: row; align-items: flex-start;">
     <a href="https://github.com/arthursignorini">
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthursignorini&layout=compact&langs_count=7&theme=dracula" style="height: 180px;"/>
     </a>
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=arthursignorini&theme=dracula&hide_border=false" alt="Github Stats" style="height: 180px;"/>
 </div>
+
 
 

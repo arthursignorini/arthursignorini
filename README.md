@@ -38,35 +38,11 @@
 -----
 
 # GitHub Stats<img height="30" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>
-<div>
-  <a href="https://github.com/arthursignorini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthursignorini&layout=compact&langs_count=7&theme=dracula"/>
+<div style="display: flex; flex-direction: row; align-items: flex-start;">
+    <img height="30" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>
+    <a href="https://github.com/arthursignorini">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthursignorini&layout=compact&langs_count=7&theme=dracula"/>
+    </a>
+    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=arthursignorini&theme=dracula&hide_border=false" alt="Github Stats"/>
 </div>
-
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=iuricode&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
 

@@ -44,7 +44,7 @@
 
 -----
 
-# GitHub Stats <img height="30" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>
+# GitHu Stats <img height="30" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>
 
 <div style="display: flex; flex-direction: row; align-items: flex-start;">
     <a href="https://github.com/arthursignorini">

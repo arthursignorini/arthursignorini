@@ -39,7 +39,7 @@
 </div>
 
 <div align="justify">
-<i><b>Hey</b> :wave:, my namis <code>Arthur</code>, I am 18 years old and as an undergraduate student in Computer Science at PUC Minas, I'm deeply passionate about software development, programming and data engineering. I'm committed to improving my technical skills, mastering new programming languages, and staying up to date on industry trends.
+<i><b>Hey</b> :wave:, my name is <code>Arthur</code>, I am 18 years old and as an undergraduate student in Computer Science at PUC Minas, I'm deeply passionate about software development, programming and data engineering. I'm committed to improving my technical skills, mastering new programming languages, and staying up to date on industry trends.
 </div>
 
 -----

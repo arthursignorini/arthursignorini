@@ -54,5 +54,3 @@
 </div>
 
 
-  ![Snake animation](https://github.com/arthursignorini/arthursignorini/blob/output/github-contribution-grid-snake.svg)
-

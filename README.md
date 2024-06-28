@@ -42,6 +42,9 @@
 <i><b>Olá</b> :wave:, meu nome é <code>Arthur</code>, tenho 18 anos e como estudante de graduação em Ciência da Computação na PUC Minas, sou profundamente apaixonado por desenvolvimento de software, inteligência artificial e engenharia de dados. Estou comprometido em melhorar minhas habilidades técnicas, dominar novas linguagens de programação e manter-me atualizado sobre as tendências da indústria. Aqui está o meu portfólio para você saber mais sobre a minha trajetória <a href="https://arthursignorini.github.io/Portfolio/" target="_blank">Meu Portfólio</a>
 
 
+[![Arthur Signorini github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arthursignorini&bg_color=0d1117&color=67cb57&line=67cb57&point=67cb57&area=true&area_color=67cb57&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 </div>
 
 -----

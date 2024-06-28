@@ -39,7 +39,8 @@
 </div>
 
 <div align="justify">
-<i><b>Hey</b> :wave:, my name is <code>Arthur</code>, I am 18 years old and as an undergraduate student in Computer Science at PUC Minas, I'm deeply passionate about software development, programming and data engineering. I'm committed to improving my technical skills, mastering new programming languages, and staying up to date on industry trends.
+<i><b>Olá</b> :wave:, meu nome é <code>Arthur</code>, tenho 18 anos e como estudante de graduação em Ciência da Computação na PUC Minas, sou profundamente apaixonado por desenvolvimento de software, inteligência artificial e engenharia de dados. Estou comprometido em melhorar minhas habilidades técnicas, dominar novas linguagens de programação e manter-me atualizado sobre as tendências da indústria. Aqui está o meu portfólio para saber você saber mais sobre a minha trajetória <a href=["[https://git.io/typing-svg](https://arthursignorini.github.io/Portfolio/)](https://arthursignorini.github.io/Portfolio/)">Portfólio</a>
+
 </div>
 
 -----

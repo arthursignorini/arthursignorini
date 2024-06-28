@@ -1,12 +1,6 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=120&section=header"/>
 
-
------
-
-<div>
-<img align="center" alt="Header" src="https://github.com/arthursignorini/arthursignorini/blob/main/Banner.png"/>
-</div>
-
------
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008000&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Arthur+Signorini;And+I+am+a+Softawre+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
 <table>
@@ -30,11 +24,7 @@
 </tr> 
 </table>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=30&pause=1000&color=f065a9&center=true&width=435&lines=Hi+there%2C+I'm+Arthur%3BSoftware+Developer%3BComputer+Scientist" alt="Typing SVG" />
-  </a>
-</div>
+
 
 </div>
 
@@ -48,8 +38,6 @@
 </div>
 
 -----
-
-# GitHub Stats <img height="30" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>
 
 <div style="display: flex; flex-direction: row; align-items: flex-start;">
     <a href="https://github.com/arthursignorini">

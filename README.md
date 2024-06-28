@@ -23,5 +23,4 @@
     </a>
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=arthursignorini&theme=blue-green&hide_border=false" alt="Github Stats" style="height: 180px;"/>
 </div>
-
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=120&section=footer"/>

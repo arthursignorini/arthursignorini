@@ -14,9 +14,6 @@
   <i><b>Olá</b> :wave:, meu nome é <code>Arthur</code>, tenho 18 anos e como estudante de graduação em Ciência da Computação na PUC Minas, sou profundamente apaixonado por desenvolvimento de software, inteligência artificial e engenharia de dados. Estou comprometido em melhorar minhas habilidades técnicas, dominar novas linguagens de programação e manter-me atualizado sobre as tendências da indústria. Aqui está o meu portfólio para você saber mais sobre a minha trajetória <a href="https://arthursignorini.github.io/Portfolio/" target="_blank">Meu Portfólio</a>
 </div>
 
-
------
-
 <div style="display: flex; flex-direction: row; align-items: flex-start;">
     <a href="https://github.com/arthursignorini">
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthursignorini&layout=compact&langs_count=7&theme=blue-green" style="height: 180px; width: 367px; font-size: 20px"/>

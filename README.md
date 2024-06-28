@@ -48,7 +48,7 @@
 
 <div style="display: flex; flex-direction: row; align-items: flex-start;">
     <a href="https://github.com/arthursignorini">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthursignorini&layout=compact&langs_count=7&theme=dracula" style="height: 180px; width: 365px;"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthursignorini&layout=compact&langs_count=7&theme=dracula" style="height: 180px; width: 367px;"/>
     </a>
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=arthursignorini&theme=dracula&hide_border=false" alt="Github Stats" style="height: 180px;"/>
 </div>

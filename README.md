@@ -11,7 +11,7 @@
 </div>
 
 <div align="justify" style="color: #008000;">
-  <i><b>Olá</b> :wave:, meu nome é <code>Arthur</code>, tenho 18 anos e como estudante de graduação em Ciência da Computação na PUC Minas, sou profundamente apaixonado por desenvolvimento de software e inteligência artificial. Estou comprometido em melhorar minhas habilidades técnicas, dominar novas linguagens de programação e manter-me atualizado sobre as tendências da indústria. Aqui está o meu portfólio para você saber mais sobre a minha trajetória <a href="https://arthursignorini.github.io/Portfolio/" target="_blank">Meu Portfólio</a>
+  <i><b>Olá</b> :wave:, meu nome é <code>Arthur</code>, tenho 19 anos e como estudante de graduação em Ciência da Computação na PUC Minas, sou profundamente apaixonado por desenvolvimento de software e inteligência artificial. Estou comprometido em melhorar minhas habilidades técnicas, dominar novas linguagens de programação e manter-me atualizado sobre as tendências da indústria. Aqui está o meu portfólio para você saber mais sobre a minha trajetória <a href="https://arthursignorini.github.io/Portfolio/" target="_blank">Meu Portfólio</a>
 </div>
 
 <br>   
